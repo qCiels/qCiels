@@ -7,7 +7,6 @@
 
 <p align="center">
   <a href="https://github.com/qCiels?tab=repositories"><img src="https://img.shields.io/badge/Projects-6-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects"></a>
-  <!-- TODO: add your LinkedIn / email / portfolio links here -->
 </p>
 
 ---
@@ -43,13 +42,3 @@ Entrepreneurs" challenge in Al Quaa, Al Ain. People voluntarily share data, earn
 full control over their privacy — companies buy anonymized insights rather than personal
 information. Interactive frontend MVP with a consent centre, rewards wallet, and company-side
 marketplace. → **[Live demo](https://data-gap-hackathon.vercel.app/)** · [Walkthrough video](https://youtu.be/E-6qcfYXsLs)
-
----
-
-### 📫 Get in touch
-
-<!-- TODO: fill these in, or delete the ones you don't want public -->
-
-- 💼 LinkedIn — *add link*
-- 📧 Email — *add address*
-- 💬 Ask me about Java, JavaFX, or operating systems concepts
