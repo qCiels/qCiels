@@ -36,18 +36,13 @@ its own thread while the GUI shows the live ready queue, a Gantt chart, and per-
 they're computed. Built around a Strategy interface with a factory, and shipped as a self-contained
 Windows bundle.
 
-**[datagap](https://github.com/qCiels/datagap)** · `JavaScript` `HTML` `CSS`
+**[DataGap — Ethical Data Marketplace](https://github.com/qCiels/datagap)** · `JavaScript` `HTML` `CSS`
 
-<!-- TODO: one or two sentences on what datagap does — the repo has no description yet. -->
-
----
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=qCiels&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="qCiels's GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qCiels&layout=compact&hide_border=true&langs_count=6" alt="Top languages">
-</p>
+A hackathon prototype for an ethical data marketplace, built for the "Data Gap for Local
+Entrepreneurs" challenge in Al Quaa, Al Ain. People voluntarily share data, earn rewards, and keep
+full control over their privacy — companies buy anonymized insights rather than personal
+information. Interactive frontend MVP with a consent centre, rewards wallet, and company-side
+marketplace. → **[Live demo](https://data-gap-hackathon.vercel.app/)** · [Walkthrough video](https://youtu.be/E-6qcfYXsLs)
 
 ---
 
