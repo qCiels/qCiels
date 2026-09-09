@@ -19,8 +19,6 @@ I'm pursuing a **BSc in Software Engineering** at **Abu Dhabi University**, conc
 
 I enjoy understanding how software works underneath: from CPU scheduling and object-oriented design to training and comparing machine learning models. My coursework covers the software development life cycle, requirements, architecture, databases, and web development, and I put those foundations into practice through individual and team projects.
 
-**I'm seeking a winter software engineering internship** where I can contribute, learn from experienced engineers, and develop my skills further.
-
 ## Technical toolkit
 
 <p>
