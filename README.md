@@ -60,8 +60,10 @@ I independently developed a desktop application that makes CPU scheduling behavi
 A machine learning study of student adaptability to online education.
 
 - **My main contribution:** trained and compared **12 model configurations** across logistic regression, decision trees, support vector machines, and XGBoost.
-- **Joint work:** prepared and analyzed categorical data, corrected formatting errors, and retained 251 records after deduplication.
-- Collaborated on **grid-search tuning with 10-fold stratified cross-validation**, using macro F1, ROC curves, and a confusion matrix to examine model performance.
+- **Joint work:** prepared and analyzed 1,205 categorical survey records, corrected formatting errors, and built leakage-safe preprocessing pipelines.
+- Used **grouped 10-fold stratified cross-validation** so identical feature profiles could not cross validation folds; reported macro F1, ROC curves, a confusion matrix, and the model's minority-class limitation.
+
+**[View repository](https://github.com/qCiels/student-adaptability-classification)**
 
 ### DataGap Ethical Data Marketplace
 
